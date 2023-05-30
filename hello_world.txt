@@ -1,0 +1,1 @@
+My second attempt at going through the foundational course of the Odin Project. I hope to complete it this time around.
